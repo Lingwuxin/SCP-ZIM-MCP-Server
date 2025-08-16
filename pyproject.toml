@@ -1,0 +1,9 @@
+[project]
+name="SCP-ZIM-MCP"
+requires-python=">=3.11"
+version="0.0.1"
+dependencies = [
+    "bs4>=0.0.2",
+    "libzim>=3.7.0",
+    "mcp>=1.13.0",
+]
