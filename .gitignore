@@ -37,7 +37,6 @@ venv/
 .venv/
 pip-log.txt
 pip-delete-this-directory.txt
-
 # 操作系统相关
 .DS_Store
 Thumbs.db
@@ -50,3 +49,4 @@ logs/
 # 测试文件
 test_output/
 *.test
+uv.lock
